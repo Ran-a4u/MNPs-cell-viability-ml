@@ -51,3 +51,10 @@ mnp-cell-viability-ml/
 ├── results/                          # metrics, plots and importance tables (generated)
 ├── notebooks/                        # optional demo / exploratory notebooks
 └── README.md
+```
+
+---
+The `data/` directory is not tracked in this repository. For privacy and
+copyright reasons, the full integrated dataset is not publicly released.
+A small toy example may be added later for demonstration.
+
